@@ -1,0 +1,9 @@
+:root{
+    --body_background : white,
+    --body_color : black
+}
+    
+[Theme = "dark"]{
+     --body_background : gray,
+     --body_color : gray
+    }
